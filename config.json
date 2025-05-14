@@ -1,14 +1,14 @@
 {
     "Name": "Fendi ALS",
-    "Description": "fendi als mango",
-    "Author": "fendi",
+    "Description": "Fendi als..........",
+    "Author": "Fendi",
     "Version": "v1.0.0",
     "Image": "https://i.ibb.co/WWGcqgwK/fendilogo1.png",
     "Tags": {
         "Resolution": "Full Res Support",
         "Type": "AHK"
     },
-    "Main": "Main.ahk",
-    "MangoID": "ALLINONE",
+    "Main": "FreeAls.ahk",
+    "MangoID": "als1ddsa5",
     "bigthumbnail": "https://i.ibb.co/Myx2cNr2/banner-fendi-2.png"
 }
