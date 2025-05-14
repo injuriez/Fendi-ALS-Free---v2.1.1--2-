@@ -1,0 +1,14 @@
+{
+    "Name": "Fendi ALS",
+    "Description": "",
+    "Author": "fendi",
+    "Version": "v1.0.0",
+    "Image": "https://i.ibb.co/WWGcqgwK/fendilogo1.png",
+    "Tags": {
+        "Resolution": "Full Res Support",
+        "Type": "AHK"
+    },
+    "Main": "Main.ahk",
+    "MangoID": "ALLINONE",
+    "bigthumbnail": "https://i.ibb.co/Myx2cNr2/banner-fendi-2.png"
+}
